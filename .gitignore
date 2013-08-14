@@ -4,3 +4,6 @@ gen/
 
 
 .settings/org.eclipse.jdt.core.prefs
+
+.gradle
+build/
