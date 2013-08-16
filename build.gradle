@@ -11,7 +11,7 @@ apply plugin: 'android-library'
 apply plugin: 'maven-publish'
 
 group 'com.romainguy'
-version 'master-SNAPSHOT'
+version '1.0-SNAPSHOT'
 
 android {
     compileSdkVersion 18
